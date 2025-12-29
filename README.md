@@ -77,7 +77,7 @@
 
 5) DASHBOARD SNAPSHOT -
 
-   ![Dashboard preview](
+   ![Dashboard preview](https://github.com/rupaliverma2825-wq/Mutual_Funds_Analysis/blob/main/MUTUAL%20FUNDS%20DASHBOARD%20SNAPSHOT.png)
 
    
 
