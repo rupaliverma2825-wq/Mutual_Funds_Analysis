@@ -1,8 +1,8 @@
-<img width="760" height="25" alt="image" src="https://github.com/user-attachments/assets/fd1a7e17-c666-48c2-b5f8-978c3d41eab8" /><img width="758" height="25" alt="image" src="https://github.com/user-attachments/assets/f2d74cfe-c307-40a9-aa1e-016ac763efd6" /># Mutual_Funds_Analysis
+# Mutual_Funds_Analysis
 
 1) MUTUAL FUNDS ANALYSIS -
 
-     Developed a comprehensive analysis of mutual fund to evaluate performance, risk, and returns across categories. The project involved extracting and analyzing data such as 1-month, 1-year, and 3-year               returns, AUM, fund ratings, risk profiles, and NAV trends. Key insights were derived to identify top-performing funds, category-wise contributions, and risk-adjusted returns. Leveraged SQL and Python              (pandas,matplotlib) to perform data manipulation, visualization, and comparative analysis. The project helped in understanding investment patterns, fund performance benchmarking, and informed decision-making      for potential investors.
+     Developed a comprehensive analysis of mutual fund to evaluate performance, risk, and returns across categories. The project involved extracting and analyzing data such as 1-month, 1-year, and 3-year              returns, AUM, fund ratings, risk profiles, and NAV trends. Key insights were derived to identify top-performing funds, category-wise contributions, and risk-adjusted returns. Leveraged SQL and Python             (pandas,matplotlib) to perform data manipulation, visualization, and comparative analysis. The project helped in understanding investment patterns, fund performance benchmarking, and informed decision-           making for potential investors.
 
 3) TECH STACK-
 
