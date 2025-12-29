@@ -77,6 +77,8 @@
 
 5) DASHBOARD SNAPSHOT -
 
+   ![Dashboard preview](
+
    
 
 
